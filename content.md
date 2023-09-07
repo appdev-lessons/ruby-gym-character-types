@@ -19,7 +19,7 @@ Example output for `string = "here 12 plus 25"`:
 
 Make your program match this target output using the randomly `sample`d `string`s provided. Then get the tests to pass.
 
-Hint: It may be helpful to use the advanced `gsub` techniques with the `Regexp` class; see [the Ruby reference](https://learn.firstdraft.com/lessons/33#advanced-gsub-techniques-with-regexp-class).
+Hint: It may be helpful to use the advanced `gsub` techniques with the `Regexp` class; see [the Ruby reference](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference#advanced-gsub-techniques-with-regexp-class).
 
 
 ```ruby
